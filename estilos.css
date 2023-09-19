@@ -36,6 +36,7 @@ body{
     text-transform: uppercase;
     font-weight: bold;
     cursor: pointer;
+    text-decoration: none;
 }
 .main-image h1 .strike{
     text-decoration: line-through;
